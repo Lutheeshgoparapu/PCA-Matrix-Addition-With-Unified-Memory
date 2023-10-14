@@ -483,7 +483,9 @@ int main(int argc, char **argv)
 ## Output:
 ### With Memset:
 <img width="558" alt="275142821-bf71115c-6de5-41ff-8d0e-19a51e2aa40d" src="https://github.com/Lutheeshgoparapu/PCA-Matrix-Addition-With-Unified-Memory/assets/94154531/f45031bd-1828-4c4e-a134-41932692bee2">
+
 ### Wihtout Memset:
+
 <img width="596" alt="275142992-b645d4bf-99af-47ae-9b51-fbdc0cf3ca39" src="https://github.com/Lutheeshgoparapu/PCA-Matrix-Addition-With-Unified-Memory/assets/94154531/d5cd2859-8682-4917-ad41-fa6f51daa9a2">
 
 
